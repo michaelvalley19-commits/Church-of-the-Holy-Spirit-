@@ -1,0 +1,1 @@
+To see children of God formed by the Holy Spirit into honest, wise, and disciplined people, raised within families and community to know God, walk in truth, grow in understanding, and make known the wonderful works of God.
