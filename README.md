@@ -1,21 +1,21 @@
 To see children of God formed by the Holy Spirit into honest, wise, and disciplined people, raised within families and community to know God, walk in truth, grow in understanding, and make known the wonderful works of God.
 
 The Spirit is God Fellowship:
-The Spirit is God Fellowship is a faith-centered community dedicated to proclaiming the works of God through His Holy Spirit.
+The Spirit is God Fellowship is a faith-centered community dedicated to proclaiming the works of God through His son JesusChrist.
 
 We believe that the Holy Spirit entered Jesus Christ at His baptism and that God spoke and worked through Jesus by dwelling within Him.
 
 Core Beliefs:
-God is Spirit, and the Holy Spirit is God
+God is Spirit, and the Holy Spirit is God.  Jesus is the Son of God.
 
-The words spoken by Jesus were the words of the Father dwelling in Him
-The works performed by Jesus were the works of God through the Spirit
-Faith, truth, honesty, and community are foundational
-Key Scriptures
+The very words spoken by Jesus were not Jesus speaking, but the words of the Father dwelling in Him.
+
+The miracles performed by Jesus didn't come from Jesus, they were the works of God through Jesus Christ. The scripture make perfect sense when perceived from this point of view. 
 
 John 14:10 — “The words that I speak unto you I speak not of myself…”
 
-Matthew 3:16 — The Spirit of God descending upon Jesus at His baptism
+Matthew 3:16 — The Spirit of God descending upon Jesus at His baptism.
+
 John 8:58 — “Before Abraham was, I AM”
 
 Purpose of This Repository
