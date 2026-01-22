@@ -1,19 +1,3 @@
-
-Church-of-the-Holy-Spirit-
-Repository navigation
-Code
-Issues
-Pull requests
-Church-of-the-Holy-Spirit-
-/Spirit Is God Fellowship
-michaelvalley19-commits
-michaelvalley19-commits
-1 hour ago
-238 lines (207 loc) · 5.58 KB
-
-Code
-
-Blame
 <!DOCTYPE html>
 <html lang="en">
 <head>
