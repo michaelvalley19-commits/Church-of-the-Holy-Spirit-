@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>The Spirit is God Fellowship</title>
+  <title>The Spirit is God, Fellowship</title>
 
   <style>
     :root {
@@ -93,41 +93,36 @@
 <body>
 
 <header>
-  <h1>The Spirit is God Fellowship</h1>
-  <p>Proclaiming the works of God through His Spirit</p>
+  <h1>The Spirit is God, Fellowship</h1>
+  <p>Proclaiming the works of God through His Son Jesus Christ.</p>
 </header>
 
 <section>
   <h2>Who We Are</h2>
   <p>
-    The Spirit is God Fellowship is a faith community centered on the belief
-    that the Holy Spirit is God and that God worked and spoke through Jesus
-    Christ by dwelling within Him.
+    The Holy Spirit is God fellowship, is a faith centered on the understanding that, the Holy Spirit is God. That the Holy Spirit descended upon and entered Jesus at Baptism. That the Holy Spirit preform the miracles and spoke to the people through Jesus
+Christ, by dwelling within Him.
   </p>
 
   <p>
-    We believe that the Holy Spirit entered Jesus at His baptism, empowering
-    Him to speak God’s words and perform God’s works—not by His own authority,
-    but by the Father who dwelt within Him.
+    We believe that the Holy Spirit spoke with wisdome and authority to the people, We believe that the very love we perceived from Jesus, was actually coming from God, the Holy Spirit and not Jesus Christ. 
   </p>
 </section>
 
 <section>
-  <h2>Jesus and the Father: The Conversation with Philip</h2>
+  <h2>Jesus explains that the Father speaks the words and the Father doeth the Work, in the Conversation with Philip</h2>
 
   <blockquote>
     “Believest thou not that I am in the Father, and the Father in me?
-    The words that I speak unto you I speak not of myself:
-    but the Father that dwelleth in me, he doeth the works.”
+    The very words that I speak unto you I speak not of my own:
+    but the Father that dwelleth in me, he speaks the words and He  doth the works.”
     <br/>
     <strong>— John 14:10 (KJV)</strong>
   </blockquote>
 
   <p>
-    When Philip asked Jesus to show them the Father, the question itself reveals
-    that the disciples understood God was somehow within Jesus, yet they did not
-    fully understand how. Jesus clarified that the words He spoke were not His
-    own, but the words of the Father dwelling in Him.
+    When Philip asked Jesus to show them the Father, the very question reveals
+    that the disciples understood  God was inside of Jesus somehow but didn't know how. Nonetheless, Jesus clarified that the very words He spoke were not His own, but the words of the Father dwelling in Him.
   </p>
 </section>
 
@@ -136,32 +131,14 @@
 
   <blockquote>
     “Jesus said unto them, Verily, verily, I say unto you,
-    Before Abraham was, I am.”
+    Before Abraham was, I AM.”
     <br/>
     <strong>— John 8:58 (KJV)</strong>
   </blockquote>
 
   <p>
-    We understand this statement as the Holy Spirit—God Himself—speaking from
-    within Jesus. Jesus, as a man, was not alive before Abraham; rather, it was
-    God, who has always existed, declaring His eternal presence from within Him.
+    We understand this statement as the Holy Spirit—God Himself—speaking from within Jesus. Jesus, as a man, was not alive before Abraham; rather, it was God, who has always existed, declaring His eternal presence from within Jesus.
   </p>
-</section>
-
-<section>
-  <h2>The Baptism of Jesus</h2>
-
-  <!-- CSS VISUAL -->
-  <div class="baptism-visual">
-    <div class="water"></div>
-  </div>
-
-  <!-- TEXT-ONLY SECTION -->
-  <div class="baptism-text">
-    <p>
-      At the baptism of Jesus, the Holy Spirit descended upon Him, marking the
-      moment when God entered and empowered Him to begin His ministry.
-    </p>
 
     <blockquote>
       “And Jesus, when he was baptized, went up straightway out of the water:
@@ -179,7 +156,7 @@
 </section>
 
 <footer>
-  © The Spirit is God Fellowship · All teachings presented for faith and study
+  © The Spirit is God, Fellowship · All teachings presented for faith and study
 </footer>
 
 </body>
