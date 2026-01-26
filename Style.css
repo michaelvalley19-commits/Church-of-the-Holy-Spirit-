@@ -1,0 +1,125 @@
+/* =========================
+   GLOBAL STYLES
+========================= */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.7;
+  color: #222;
+
+  /* Sun rays background */
+  background:
+    linear-gradient(rgba(255,255,255,0.88), rgba(255,255,255,0.88)),
+    url("https://images.unsplash.com/photo-1500530855697-b586d89ba3ee");
+
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+/* =========================
+   HEADER / HERO
+========================= */
+
+.hero {
+  text-align: center;
+  padding: 4rem 1.5rem;
+
+  /* Doves background */
+  background:
+    linear-gradient(rgba(255,255,255,0.92), rgba(255,255,255,0.92)),
+    url("https://images.unsplash.com/photo-1529070538774-1843cb3265df");
+
+  background-size: cover;
+  background-position: center;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero p {
+  font-size: 1.3rem;
+  font-style: italic;
+  color: #444;
+}
+
+/* =========================
+   MAIN CONTENT
+========================= */
+
+.content {
+  max-width: 900px;
+  margin: 3rem auto;
+  padding: 2rem;
+  background: rgba(255, 255, 255, 0.96);
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+.content h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.5rem;
+}
+
+.content p {
+  font-size: 1.1rem;
+}
+
+/* =========================
+   BUTTON
+========================= */
+
+.button {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  font-weight: bold;
+
+  color: #fff;
+  background: #3b6ea5;
+  border-radius: 30px;
+  transition: background 0.3s ease;
+}
+
+.button:hover {
+  background: #2c5580;
+}
+
+/* =========================
+   CHILDREN SECTION
+========================= */
+
+.children-section {
+  margin-top: 3rem;
+  padding: 3rem 2rem;
+
+  /* Children playing background */
+  background:
+    linear-gradient(rgba(255,255,255,0.9), rgba(255,255,255,0.9)),
+    url("https://images.unsplash.com/photo-1503457574465-1f3c0c36a2cb");
+
+  background-size: cover;
+  background-position: center;
+  border-radius: 16px;
+}
+
+/* =========================
+   FOOTER
+========================= */
+
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  font-size: 0.95rem;
+  color: #555;
+}
