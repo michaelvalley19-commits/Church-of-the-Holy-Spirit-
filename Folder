@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Spirit is God Fellowship</title>
+
+  <!-- Link to CSS -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="hero">
+    <h1>Spirit is God Fellowship</h1>
+    <p>Understanding God through the Holy Spirit</p>
+  </header>
+
+  <main class="content">
+
+    <section>
+      <h2>How People Misunderstand God</h2>
+      <p>
+        Jesus was baptized and received the Holy Spirit. The Spirit spoke through
+        Jesus, taught with authority, healed the sick, and revealed the Day of Judgment.
+      </p>
+
+      <a href="teaching.html" class="button">
+        Read the Full Teaching
+      </a>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>
+      © Spirit is God Fellowship<br />
+      Teaching by Michael
+    </p>
+  </footer>
+
+</body>
+</html>
