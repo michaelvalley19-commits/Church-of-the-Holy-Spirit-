@@ -1,7 +1,4 @@
-We declare that the Spirit is God!
-Proclaiming the works of the Holy Spirit through His son Jesus.
 
-Who am I?
 My name is Michael. I'm inspired by the Holy Spirit to teach the word of God. This is to call together like minded people to establish a faith base community; centered on the belief that the Holy Spirit is God, and that God worked and spoke through Jesus Christ by dwelling within Him.
 
 We believe that the Holy Spirit entered Jesus at His baptism, enabling Him to speak His Words and work His miracles while within Jesus. When God spoke, He spoke with authority, teaching the people. When God was inside of Jesus, all they had to do was touch Jesus and they were healed. When God wasn't inside of Jesus and they asked Jesus for a miracle, because It seems as if God came and went as He pleased, Jesus had to pray to the Father. This resulted in the healing taking about an hour.
