@@ -1,17 +1,22 @@
 
 My name is Michael. I'm inspired by the Holy Spirit to teach the word of God. This is to call together like minded people to establish a faith base community; centered on the belief that the Holy Spirit is God, and that God worked and spoke through Jesus Christ by dwelling within Him.
 
-We believe that the Holy Spirit entered Jesus at His baptism, enabling Him to speak His Words and work His miracles while within Jesus. When God spoke, He spoke with authority, teaching the people. When God was inside of Jesus, all they had to do was touch Jesus and they were healed. When God wasn't inside of Jesus and they asked Jesus for a miracle, because It seems as if God came and went as He pleased, Jesus had to pray to the Father. This resulted in the healing taking about an hour.
+We believe that the Holy Spirit entered Jesus at His baptism, enabling Him to speak His Words and work His miracles while within Jesus. When God spoke, He spoke with authority, teaching the people. When God was inside of Jesus, all the people had to do was touch Jesus and they were healed. When God wasn't inside of Jesus, and they asked him for a miracle, because God wasn't inside of Jesus, Jesus had to pray and ask God for the miracle. It seems as if God came and went as He pleased. Nonetheless, Jesus had to pray to the Father and ask. This resulted in the healing taking about an hour.
 
-Jesus and the Father: The Conversation with Philip
+Jesus and the Father: The Conversation of Jesus and Philip
 “Believest thou not that I am in the Father, and the Father in me? The words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works.”
 — John 14:10 (KJV)
+
 When Philip asked Jesus to show them the Father, the very question reveals that the disciples understood that God was inside of Jesus somehow but didn't know how. Jesus clarified that the very words he spoke were not his, but the Father dwelling in Him. He spoke the words and did the work.
 
-“Before Abraham Was, I AM”
-“Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
+One of the best examples of God speaking from within Jesus is when God said, 
+“Before Abraham Was, I AM” 
+When Moses ask God, "Who should I tell Pharo that sent me?" God said, "I AM that I AM. Tell Pharo that I AM sent you." 
+God's name is I AM. 
+
+God said unto them through Jesus, Verily, verily, I say unto you, Before Abraham was, I am.”
 — John 8:58 (KJV)
-When Jesus made that statement, it wasn't Jesus speaking. Of course Jesus wasn't created yet. It was God identifying Himself as the great I AM from the time of Moses. Understand, this statement was spoken of by the Holy Spirit through Jesus Christ. Jesus Christ was not created or born before Abraham died. Abraham had already passed away when Jesus was born. Rather, it was God, who has always existed, declaring His eternal presence from within Jesus to the people. And the people pick up stones because they understood that He was calling himself God, rightfully so I add, because it was God talking from within Jesus.
+When Jesus made that statement, it wasn't Jesus speaking. Of course Jesus wasn't created yet. It was God identifying Himself as the great I AM from the time of Moses. Understand, this statement was spoken of by the Holy Spirit through Jesus Christ. Jesus Christ was not created or born before Abraham died. Abraham had already passed away when Jesus was born. Rather, it was God, who has always existed, declaring His eternal presence from within Jesus to the people. And the people pick up stones because they understood that He was calling himself God, rightfully so I add, because it was God talking from within Jesus, but Jesus disappeared out of sight.
 
 The Baptism of Jesus
 At the baptism of Jesus, the Holy Spirit descended upon Him, marking the moment when God entered Him to begin His ministry.
@@ -26,6 +31,6 @@ At the baptism of Jesus, the Holy Spirit descended upon Him, marking the moment 
 
 <p>
   From that moment forward, Jesus spoke the words of God and performed the
-  works of God through the indwelling Holy Spirit.
+  works of God through the indwelling of the Holy Spirit.
 </p>
 © The Spirit is God! · All teachings presented for faith and study
