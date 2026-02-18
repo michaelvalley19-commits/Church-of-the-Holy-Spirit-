@@ -2,7 +2,7 @@
 My name is Michael. I'm inspired by the Holy Spirit to teach His Word. This is to establish a one true faith, based on scripture and history, to verify facts. This is to create God's Church, centered on the Holy Spirit, who is the Father of Jesus Christ. 
 
 True scripture tells us that the angel Gabriel told Mary that the Holy Spirit would visit her to conceive baby Jesus. 
-This Holy Spirit is the Father Jesus Christ.
+This Holy Spirit is the Father Jesus Christ talked about, and worshipped.
 At Jesus's baptism, we have a testimony from John saying that he and the people saw a Spirit descending from Heaven like a dove onto Jesus, with lighting. 
 As God was inside of Jesus, it enabled Him to speak His Words and work His miracles while within Jesus. When Jesus spoke with authority, it was actually God who spoke. 
 The Holy Spirit spoke with authority from within Jesus, teaching the people. 
